@@ -19,7 +19,7 @@
     "typescript": "^5.3.3"
   },
   "peerDependencies": {
-    "expo-file-system": "^17.0.1"
+    "expo-file-system": "^18.1.0"
   },
   "files": [
     "dist/*.js",
